@@ -1,5 +1,5 @@
 127.0.0.1   localhost
-127.0.1.1   Peggy
+127.0.1.1   Product
 ::1         ip6-localhost ip6-loopback
 ::1         localhost
 fe80::1%lo0 localhost
@@ -19645,6 +19645,7 @@ fe80::1%lo0 localhost
 79.101.110.148 sketchup.l.google.com
 79.101.110.148 smarthosts.googlecode.com
 79.101.110.148 spreadsheet.google.com
+
 79.101.110.148 spreadsheets0.google.com
 79.101.110.148 spreadsheets1.google.com
 79.101.110.148 spreadsheets2.google.com
@@ -19813,4 +19814,3 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts 
-Google腔褫蚚Hosts恅璃
